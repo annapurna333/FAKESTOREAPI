@@ -1,0 +1,14 @@
+.name {
+    color: black;
+}
+.image {
+    height: 120px;
+    width: 120px;
+}
+.products-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

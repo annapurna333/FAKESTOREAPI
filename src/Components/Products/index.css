@@ -1,0 +1,23 @@
+.product-item{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image {
+    height: 250px;
+    width: 250px;
+}
+.title{
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: #000000;
+    text-align: center;
+}
+.product-link{
+    background-color: darkgrey;
+    margin: 10px;
+    text-decoration: none;
+}
